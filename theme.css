@@ -1,0 +1,22 @@
+body {
+
+}
+
+.theme-dark {
+  --background-primary: #181824;
+  --background-primary-alt: #181824;
+  --background-secondary: #100e17;
+  --background-secondary-alt: #100e17;
+  --background-modifier-border: rgba(0, 0, 0, 0);
+  --bg-accent-25: rgba(14, 210, 247, 0.25);
+  --text-highlight-bg: rgba(244, 86, 157, 0.25);
+
+}
+/*
+Todo: Make the top bar buttons sit on the blocks below them like tabs
+Put colour on all the buttons
+Put colour on all the different ways text can be written like italics, bold, bold and italic, headings, etc
+Make the interface text colourful, and preferrably one uniform colour.
+Steal the pretty highlighting of the current note of rezin, and tune it so it doesnt look stolen
+Hide buttons on the bars that arent used right nowrap
+Choose pretty font for the interfaces
